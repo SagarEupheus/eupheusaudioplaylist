@@ -1,0 +1,25 @@
+@media (max-width: 375px){
+    .playlistAudio{
+    position: relative;
+    /* left: 60px; */
+    top:45px
+    }} 
+@media (max-width: 390px){
+    .playlistAudio{
+    position: relative;
+    /* left: 55px; */
+    top:45px
+    }} 
+@media (max-width: 426px){
+    .playlistAudio{
+    position: relative;
+    /* left: 42px; */
+    top:0px;
+    padding-top: 35px;
+    padding-bottom: 90px;
+    }
+    .w426{
+        width: 100vw;
+    }
+} 
+    
