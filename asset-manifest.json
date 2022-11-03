@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eupheusaudioplaylist/static/css/main.0bd745ef.css",
+    "main.js": "/eupheusaudioplaylist/static/js/main.736a6075.js",
+    "static/js/787.7ecbe7d8.chunk.js": "/eupheusaudioplaylist/static/js/787.7ecbe7d8.chunk.js",
+    "index.html": "/eupheusaudioplaylist/index.html",
+    "main.0bd745ef.css.map": "/eupheusaudioplaylist/static/css/main.0bd745ef.css.map",
+    "main.736a6075.js.map": "/eupheusaudioplaylist/static/js/main.736a6075.js.map",
+    "787.7ecbe7d8.chunk.js.map": "/eupheusaudioplaylist/static/js/787.7ecbe7d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bd745ef.css",
+    "static/js/main.736a6075.js"
+  ]
+}
